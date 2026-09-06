@@ -1,0 +1,37 @@
+==============================================================================
+                    ENTREGABLE - MINI PORTFOLIO
+==============================================================================
+
+Proyecto: Mini Portfolio
+Tecnologías: Next.js 16 + App Router + TypeScript + Supabase
+
+REQUISITOS CUBIERTOS
+------------------------------------------------------------------------------
+[x] Next.js 16+
+[x] App Router
+[x] Supabase serverless
+[x] Server Components
+[x] Lectura de datos desde Supabase
+[x] Ruta dinámica /proyectos/[id]
+[x] Ruta dinámica /categorias/[slug]
+[x] Tabla projects
+[x] 5 registros de ejemplo
+[x] RLS con acceso público solo SELECT
+[x] Loading state
+[x] Manejo de errores
+[x] Variables de entorno
+[x] Diseño responsive
+[x] Clean Code
+[x] README con instalación y variables requeridas
+
+PENDIENTE PARA EL ESTUDIANTE
+------------------------------------------------------------------------------
+[ ] Crear proyecto en Supabase
+[ ] Ejecutar supabase/schema.sql
+[ ] Configurar .env.local
+[ ] Probar npm run dev
+[ ] Subir a GitHub público
+[ ] Desplegar en Vercel
+[ ] Agregar variables de entorno en Vercel
+[ ] Entregar URL de producción y URL de GitHub
+==============================================================================
